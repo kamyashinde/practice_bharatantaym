@@ -1,0 +1,102 @@
+.main-image {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* font-family: 'Lora', serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Work Sans', sans-serif;*/
+/* .timepass {height: 100px;}*/
+
+
+nav {
+  background-color: #ff847c;
+}
+
+
+/*Tags*/
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    color: black;
+
+}
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5em;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+/*Images*/
+.title-image {
+  height: 700px;
+  border-color: black;
+}
+
+
+/*Section*/
+/* .red-section {
+    background-color: #e84a5f;
+} */
+.orange-section {
+  padding: 3% 7%;
+  background-color: whitesmoke;
+}
+
+/*
+.yellow-section {
+  padding: 3% 7%;
+  background-color: #fecea8;
+}
+*/
+
+.yellow-section {
+  padding: 3% 7%;
+  background-color: white;
+}
+
+/* .orange-section {
+  padding: 3% 7%;
+  background-color: #ff847c;
+}
+.yellow-section {
+  padding: 3% 7%;
+  background-color: #fecea8;
+}
+ */
+/**Navigation Bar*/
+
+.topnav a:hover {
+    color: #666666;
+}
+
+.navbar {
+  background-color: #191919;
+  color: black;
+  padding: 3% 7%;
+  font-size: 20px;
+  font-family: "Montserrat";
+}
+
+
+/*----------------------------------------------------------------------*/
+
